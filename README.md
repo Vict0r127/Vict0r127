@@ -2,9 +2,9 @@
 
 Meu nome é Victor
 
-- Sou estudante de programação;
-- Sou desenvolvedor de JavaScript, HTML, C+;
-- Utilizo esse espaço para organizar e compatilhar projetos;
+- Sou estudante de programação
+- Sou desenvolvedor de JavaScript, HTML, C+
+- Utilizo esse espaço para organizar e compatilhar projetos
   
   ## Para entrar em contato
 
